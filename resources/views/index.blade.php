@@ -13,6 +13,10 @@
 <body class="bg-gray-100 font-mono">
     <div id="app"></div>
 
+    <script>
+        var url = "~mirror"
+    </script>
+
     <script defer>
         <?php include $root . '/resources/js/mirror.js'; ?>
     </script>
